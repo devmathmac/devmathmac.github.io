@@ -1,5 +1,5 @@
 nav {
-  background-color: blue !important;
+  background-color: black !important;
 }
 
 nav a {
@@ -27,4 +27,11 @@ nav a {
 }
 .copyright{
   display: center-block;
+}
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img{
+height: 100vh;
+
+}
+.pet-store{
+  100px;
 }
